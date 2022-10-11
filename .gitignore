@@ -3,3 +3,4 @@
 
 # Binaries
 /cmd/healthcheck/healthcheck
+vendor/
